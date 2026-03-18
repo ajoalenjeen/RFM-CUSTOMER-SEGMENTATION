@@ -14,13 +14,13 @@ To segment customers for targeted marketing by identifying:
  * Big Spenders at Risk
 
 ## 🧱 Dataset Summary
-Source: UCI Machine Learning Repository E-Commerce UK Dataset
+**Source**: UCI Machine Learning Repository E-Commerce UK Dataset
 
-Link : https://archive.ics.uci.edu/dataset/352/online+retail
+**Link** : https://archive.ics.uci.edu/dataset/352/online+retail
 
-Records: 500K+ transactions
+**Records** : 500K+ transactions
 
-Fields: InvoiceNo, Product Description, Quantity, UnitPrice, CustomerID, Country, InvoiceDate
+**Fields** : InvoiceNo, Product Description, Quantity, UnitPrice, CustomerID, Country, InvoiceDate
 
 ## 🔧 Process Summary
 ### 1. Data Cleaning
