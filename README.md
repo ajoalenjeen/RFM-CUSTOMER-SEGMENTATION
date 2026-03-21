@@ -97,7 +97,7 @@ To segment customers for targeted marketing by identifying:
 <img src="https://github.com/ajoalenjeen/RFM-CUSTOMER-SEGMENTATION/blob/402163d6853f25d620b30f09dd1293fb56913441/Dashboard/Screenshot%202026-03-21%20012250.png?raw=true" width="800">
 
 ### RFM
-<img src="https://github.com/ajoalenjeen/RFM-CUSTOMER-SEGMENTATION/blob/70310bf41cd1dd3adeec66c4001e27097468afca/Dashboard/Screenshot%202026-03-18%20001409.png?raw=true" width="800">
+<img src="https://github.com/ajoalenjeen/RFM-CUSTOMER-SEGMENTATION/blob/95c9545cecee0b5f41a177124993259cc9e654c9/Dashboard/Screenshot%202026-03-21%20012444.png?raw=true" width="800">
 
 ## 📈 Tools Used
  * MySQL Workbench
