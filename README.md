@@ -92,7 +92,7 @@ To segment customers for targeted marketing by identifying:
 
 
 ## Dashboard Overview [link](https://public.tableau.com/app/profile/ajo.jeen5964/viz/RetailAnalysisRFM/Overview?publish=yes)
-<img src="https://github.com/ajoalenjeen/RFM-CUSTOMER-SEGMENTATION/blob/879e7c00fb9969aeec95cd972a001d4546034dbc/Dashboard/Screenshot%202026-03-23%20222517.png?raw=true" width="800">
+<img src="https://github.com/ajoalenjeen/RFM-CUSTOMER-SEGMENTATION/blob/36c3c0ef3d1cfaa57b55908ce5445c2c5a8dcab1/Dashboard/Screenshot%202026-03-24%20034235.png?raw=true" width="800">
 
 ## Insights
 * Revenue concentration — 474 Champions (11.3%) drive 55.7% of revenue (£4.27M). Losing even a few is costly.
