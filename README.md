@@ -1,9 +1,7 @@
 # RFM-Customer-Segmentation
 
 ## Project Overview
-This project applies Recency, Frequency, and Monetary (RFM) analysis to segment customers based on their purchasing behavior using SQL.
-
-It was performed on a real-world UK-based e-commerce transactions dataset, imported into MySQL and cleaned to prepare for analysis.
+This project analyzes a real-world UK-based e-commerce dataset of 541,909 transactions using SQL to uncover revenue trends, customer retention patterns, and purchasing behavior. Data was imported into PostgreSQL, cleaned through a multi-step pipeline, and segmented using RFM (Recency, Frequency, Monetary) analysis across five business scenarios. Results are visualized through an interactive Tableau Public dashboard.
 
 ## 📊 Business Objective
 To segment customers for targeted marketing by identifying:
