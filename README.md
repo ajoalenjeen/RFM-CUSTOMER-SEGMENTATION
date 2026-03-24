@@ -69,25 +69,26 @@ To segment customers for targeted marketing by identifying:
 | Champions            | R ≥ 4, F ≥ 4, M ≥ 4              |
 | Loyal Customers      | R ≥ 3, F ≥ 3, M ≥ 3              |
 | New Customers        | R ≥ 4, F ≤ 2                      |
-| Potential Loyalists  | R ≥ 4, F ≥ 3, M ≤ 3              |
-| At Risk              | R ≤ 2, F ≥ 3, M ≥ 3              |
-| Big Spenders at Risk | R ≤ 2, F ≤ 2, M ≥ 3              |
+| Potential Loyalists  | R ≥ 3, F ≥ 3, M ≤ 2              |
+| About to Sleep       | R = 3, F ≤ 1                      |
+| Promising            | R = 3, F = 2, M ≥ 3              |
+| Cooling Down         | R = 3, F = 2, M ≤ 2              |
+| At Risk              | R = 2, F ≥ 3, M ≥ 3              |
 | Need Attention       | R ≤ 2, F ≥ 2, M ≤ 2              |
-| Cannot Lose Them     | R = 1, F ≤ 2, M ≥ 3              |
+| Hibernating          | R = 2, F ≤ 1                      |
+| Big Spenders at Risk | R ≤ 2, F ≤ 2, M ≥ 3              |
+| Cannot Lose Them     | R = 1, F ≥ 3, M ≥ 3              |
 | Lost                 | R = 1, F ≤ 2, M ≤ 2              |
 | Others               | Everything else                   |
 
-
 ## 📌 Sample RFM Output
-
 | CustomerID | Recency | Frequency | Monetary   | RFM Score | Segment              |
 |------------|---------|-----------|------------|-----------|----------------------|
-| 12347      | 2       | 7         | 4,310.00   | 545       | Champions            |
-| 12348      | 75      | 4         | 1,437.24   | 333       | Loyal Customers      |
-| 12349      | 18      | 1         | 1,457.55   | 513       | New Customers        |
-| 12350      | 310     | 1         | 294.40     | 111       | Lost                 |
-| 12354      | 232     | 1         | 1,079.40   | 113       | Big Spenders at Risk |
-
+| 12347      | 30      | 5         | 3,373.39   | 435       | Loyal Customers      |
+| 12348      | 66      | 3         | 784.44     | 322       | Cooling Down         |
+| 12349      | 9       | 1         | 1,457.55   | 513       | New Customers        |
+| 12350      | 301     | 1         | 294.40     | 111       | Lost                 |
+| 12354      | 223     | 1         | 1,079.40   | 113       | Big Spenders at Risk |
 
 ## Dashboard Overview [link](https://public.tableau.com/app/profile/ajo.jeen5964/viz/RetailAnalysisRFM/Overview?publish=yes)
 <img src="https://github.com/ajoalenjeen/RFM-CUSTOMER-SEGMENTATION/blob/36c3c0ef3d1cfaa57b55908ce5445c2c5a8dcab1/Dashboard/Screenshot%202026-03-24%20034235.png?raw=true" width="800">
